@@ -32,4 +32,10 @@ Although the project was not completed, it highlights frontend development and F
 - **Web Deployment:** Flutter Web build  
 - **Planned Integrations:** Email service (SMTP, API-based, or Firebase)  
 
+Project Status
+
+This project was left unfinished when the client decided not to move forward with a website at the time.
+The code remains as a reference and portfolio piece for showcasing Flutter Web development.
+
 ![Landing0](assets/Landing.png)
+
