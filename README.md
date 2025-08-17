@@ -1,16 +1,35 @@
-# dtgoldsmith_web
+# DT Goldsmiths Website (Flutter Web)
 
-A new Flutter project.
+A **static business website** prototype built in **Flutter Web** for DT Goldsmiths.  
+The project showcases a clean layout, company information, and a simple contact form to reach out directly.  
+Although the project was not completed, it highlights frontend development and Flutter Web design skills.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Landing Page**  
+  - Business branding and introductory content  
+  - Modern responsive layout  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Contact Form**  
+  - Input fields for name, email, and message  
+  - Sends inquiries directly to the business (planned integration with backend or email service)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Static Pages**  
+  - About section  
+  - Services/offerings overview  
+
+- **Built with Flutter Web**  
+  - Cross-platform, responsive design  
+  - Simple to extend or re-theme for other businesses  
+
+---
+
+## Tech Stack
+
+- **Frontend:** Flutter (Dart)  
+- **Web Deployment:** Flutter Web build  
+- **Planned Integrations:** Email service (SMTP, API-based, or Firebase)  
+
+![Landing0](assets/Landing.png)
